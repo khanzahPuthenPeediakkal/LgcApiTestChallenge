@@ -1,0 +1,13 @@
+﻿<configuration>
+  <report>
+    <theme>dark</theme>
+    <documentTitle>API Test Report</documentTitle>
+    <reportName>API Automation Results</reportName>
+    <encoding>utf-8</encoding>
+    <protocol>https</protocol>
+  </report>
+  <testing>
+    <displayOrder>newest</displayOrder>
+    <viewTestsBy>category</viewTestsBy>
+  </testing>
+</configuration>
