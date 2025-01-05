@@ -1,0 +1,6 @@
+C:\LgcApiTestAutomation\ApiTestsAutomation\obj\Debug\net5.0\ApiTestsAutomation.csproj.AssemblyReference.cache
+C:\LgcApiTestAutomation\ApiTestsAutomation\obj\Debug\net5.0\ApiTestsAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\LgcApiTestAutomation\ApiTestsAutomation\obj\Debug\net5.0\ApiTestsAutomation.AssemblyInfoInputs.cache
+C:\LgcApiTestAutomation\ApiTestsAutomation\obj\Debug\net5.0\ApiTestsAutomation.AssemblyInfo.cs
+C:\LgcApiTestAutomation\ApiTestsAutomation\obj\Debug\net5.0\ApiTestsAutomation.csproj.CoreCompileInputs.cache
+C:\LgcApiTestAutomation\ApiTestsAutomation\obj\Debug\net5.0\ApiTestsAutomation.sourcelink.json
